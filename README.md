@@ -1,5 +1,5 @@
 # COL215_LabAssignments
-*# Lab assignmets from COL215: Digital Logic &amp; System Design
+      * # Lab assignmets from COL215: Digital Logic &amp; System Design
 
 
 
